@@ -1,6 +1,6 @@
 h1{
     color: red;
-    margin-left: 20px;
+    margin-left: 90px;
 }
 
 #box{
@@ -11,14 +11,26 @@ h1{
 
 .bilder{
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 90px;
 }
 
 .brödtext{
-    margin-left: 20px;
+    margin-left: 90px;
     color: red;
 }
 
-#vänsterbox{
-    width: 20%;
+#vänsterbox1{
+    width: 40%;
+    height: 60%;
+    margin-left: 90px;
+}
+
+h6{
+    font-size: 200%;
+}
+
+.vänsterrubrik{
+    margin-left: 750px;
+    margin-bottom: 20px;
+
 }
