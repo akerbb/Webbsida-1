@@ -1,3 +1,24 @@
 h1{
-    color: aliceblue;
+    color: red;
+    margin-left: 20px;
+}
+
+#box{
+    --border:5px solid #000222;
+    --border-radius: 2rem;
+    --size: 50%;
+    }
+
+.bilder{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.brödtext{
+    margin-left: 20px;
+    color: red;
+}
+
+#vänsterbox{
+    width: 20%;
 }
